@@ -7,5 +7,5 @@ PASOS A TENER EN CUENTA
    pip install pydrive2
 3. Ejecutar el script quickstart.py(solo se ejecuta una vez para hacer la autenticación)
 5. En pybak.py: Asignar el id de la carpeta en el método drear_carpeta dentro del main.
-6. Asiganr un directorio para hacer el backup(no funciona con backslashes)
+6. Asignar un directorio para hacer el backup(no funciona con backslashes)
 7. Ejecutar el script
